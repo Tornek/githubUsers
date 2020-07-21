@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@brunnerh/autocomplete": "^0.1.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "modal-overlay": "^1.0.1",
     "sirv-cli": "^0.4.4"
   }
